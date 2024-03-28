@@ -1,10 +1,10 @@
 {
   "expo": {
-    "experiment": {
-      "baseUrl": "/web-cloud-ynov"
+    "experiments": {
+      "baseUrl": "/web-cloud-ynov-julien"
     },
-    "name": "web-cloud-ynov",
-    "slug": "web-cloud-ynov",
+    "name": "web-cloud-ynov-julien",
+    "slug": "web-cloud-ynov-julien",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
